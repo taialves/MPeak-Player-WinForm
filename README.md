@@ -48,7 +48,7 @@ selecione a guia ".NET Framework Components" e encontre o controle "Windows Medi
 - Sistema Operacional Windows
 
 ## Como Executar o Projeto
-- Clone o repositório: git clone https://github.com/seu-usuario/seu-repositorio.git
+- Clone o repositório: git clone https://github.com/taialves/MPeak-Player-WinForm.git
 - Instale as dependências via Nuget
 - Execute o projeto: npm start
 
