@@ -52,6 +52,9 @@ selecione a guia ".NET Framework Components" e encontre o controle "Windows Medi
 - Instale as dependências via Nuget
 - Execute o projeto: npm start
 
+## Preview do Projto Até o Momento:
+![image](https://user-images.githubusercontent.com/43867979/230697707-4abddd8e-27e9-4002-90a4-55550992b3fa.png)
+
 ## Contribuindo
 - Faça um fork do repositório
 - Crie sua feature branch: git checkout -b minha-nova-feature
